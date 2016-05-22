@@ -3,4 +3,4 @@ published: true
 title: Hello 
 layout: post
 ---
-First blog post on GitHub! 
+First blog post on <a href="https://www.github.com">GitHub!</a>
