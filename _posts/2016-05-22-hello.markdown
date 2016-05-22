@@ -3,4 +3,4 @@ published: true
 title: Hello 
 layout: post
 ---
-Just trying tinypress
+First blog post on GitHub! 
